@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "city": "Paris",
+        "places": [
+                {
+                    "id": 1,
+                    "name": "Eiffel Tower",
+                    "image": "/img/eiffel-tower.jpg",
+                    "caption": "First time seeing Eiffel Tower!"
+                },
+                {
+                    "id": 2,
+                    "name": "The Seine",
+                    "image": "/img/seine-river.jpg",
+                    "caption": "Me and The Seine"
+                },
+                {
+                    "id": 3,
+                    "name": "Pont Neuf",
+                    "image": "/img/pont-neuf.jpg",
+                    "caption": "Sunset at Pont Neuf with Sylvain"
+                },
+                {
+                    "id": 4,
+                    "name": "Ice Cream",
+                    "image": "/img/icecream.jpg",
+                    "caption": "Getting Ice Cream in paris"
+                },
+                {
+                    "id": 5,
+                    "name": "Arc De Triomphe",
+                    "image": "/img/arc-de-triomphe.jpg",
+                    "caption": "Arc De Triomphe"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "city": "Lyon",
+            "places": [
+                {
+                    "id": 1,
+                    "name": "Basilique Notre Dame de Fourviere",
+                    "image": "/img/top-of-lyon-pt1",
+                    "caption": "On top of the world Pt.1"
+                },
+                {
+                    "id": 2,
+                    "name":"Basilique Notre Dame de Fourviere",
+                    "image": "/img/top-of-lyon-pt2",
+                    "caption": "On top of the world Pt.2"
+                },
+                {
+                    "id": 3,
+                    "name": "Dinner",
+                    "image": "/img/dinner-with-sylvain.jpg",
+                    "caption": "Having French dinner with Sylvain"
+                },
+                {
+                    "id": 4,
+                    "name": "The Rhône",
+                    "image": "/img/the-rhone.jpg",
+                    "caption": "Running through The Rhône"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "city": "Toulon",
+            "places": [
+                {
+                    "id": 1,
+                    "name": "Beach",
+                    "image": "/img/toulon-beach.jpg",
+                    "caption": "Going to the beach"
+                },
+                {
+                    "id": 2,
+                    "name": "Sunrise",
+                    "image": "/img/toulon-sunrise.jpg",
+                    "caption": "Watching sunrise with Sylvain"
+                },
+                {
+                    "id": 1,
+                    "name": "Beach",
+                    "image": "/img/going-to-beach.jpg",
+                    "caption": "Going to the beach"
+                }
+            ]
+        }
+]
